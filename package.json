@@ -1,0 +1,12 @@
+{
+  "name": "ffmetadata",
+  "version": "0.0.0",
+  "description": "Read and write media metadata using ffmpeg",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
