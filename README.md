@@ -11,7 +11,7 @@ npm run start
 ```
 
 # For metadata video
-```json
+```bash
 metadata-video => {
   width: 480,
   height: 270,
