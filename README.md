@@ -10,7 +10,7 @@ npm run install
 npm run start
 ```
 
-# For Metadata Video
+# For metadata video
 ```json
 metadata-video => {
   width: 480,
