@@ -14,3 +14,5 @@ npm run start:generateBlankVideo
 ```bash
 output.mp4
 ```
+
+![alt text](https://github.com/jackhuynh95/node-ffmetadata-new/blob/main/assets/demo.png?raw=true)
